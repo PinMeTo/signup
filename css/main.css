@@ -76,6 +76,8 @@ body {
 
 .header-container {
     border-bottom: 1px solid #E1EBF0;
+    width: 100%;
+    min-height: 200px;
     background-image: url(https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-ash3/1004999_430300240415512_2096899719_n.jpg);
     background-size: cover;
     background-position: center center;
