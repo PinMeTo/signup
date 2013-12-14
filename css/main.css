@@ -96,13 +96,15 @@ body {
 }
 
 .title {
-/*    color: #1D3947;
-*/
-    display: none;
+/*  color: #1D3947;
     font-weight: 100;
     display: block;
     line-height: 1;
     margin-bottom: 0;
+
+
+*/
+    display: none;
 }
 .title-secondary {
     font-size: 10px;
